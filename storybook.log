@@ -1,0 +1,21 @@
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: simpli@0.1.0
+npm error Found: next@13.5.8
+npm error node_modules/next
+npm error   next@"13.5.8" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer next@"^14.1.0 || ^15.0.0" from @storybook/experimental-nextjs-vite@8.6.12
+npm error node_modules/@storybook/experimental-nextjs-vite
+npm error   dev @storybook/experimental-nextjs-vite@"8.6.12" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error /data/data/com.termux/files/home/.npm/_logs/2025-04-10T15_09_44_805Z-eresolve-report.txt
+npm error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2025-04-10T15_09_44_805Z-debug-0.log
